@@ -1,2 +1,2 @@
-# ekmensah.com
+# ekmensah.github.com
 new world
